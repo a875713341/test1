@@ -8,6 +8,6 @@ public class Test1 {
 		System.out.println("java");
 		System.out.println("dong");
 		System.out.println(b);
-		
+		System.out.println(a);
 	}
 }
